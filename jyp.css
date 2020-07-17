@@ -1,0 +1,103 @@
+body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, p, pre, code, blockquote {
+	margin:0;
+	padding:0;
+	border-width:0;
+}
+td, th {
+	border-style:solid;
+	border-width:1px;
+}
+table {
+	border-collapse:collapse;
+}
+li {
+	display:block;
+}
+body {
+	font-size:12px;
+	-epub-hyphens:auto;
+}
+img.frame-1 {
+	height:1280px;
+	width:800px;
+}
+div.frame-2 {
+	margin:0px auto 0px auto;
+	text-align:center;
+}
+img.frame-3 {
+	height:941px;
+	width:729px;
+}
+img.frame-4 {
+	height:981px;
+	width:731px;
+}
+img.frame-5 {
+	height:963px;
+	width:727px;
+}
+img.frame-6 {
+	height:990px;
+	width:731px;
+}
+img.frame-7 {
+	height:964px;
+	width:732px;
+}
+img.frame-8 {
+	height:532px;
+	width:532px;
+}
+img.frame-9 {
+	height:415px;
+	width:457px;
+}
+img.frame-10 {
+	height:408px;
+	width:443px;
+}
+img.frame-11 {
+	height:531px;
+	width:532px;
+}
+img.frame-12 {
+	height:345px;
+	width:418px;
+}
+img.frame-13 {
+	height:600px;
+	width:728px;
+}
+img.frame-14 {
+	height:528px;
+	width:691px;
+}
+img.frame-15 {
+	height:227px;
+	width:800px;
+}
+img.frame-16 {
+	height:409px;
+	width:728px;
+}
+img.frame-17 {
+	height:550px;
+	width:720px;
+}
+img.frame-18 {
+	height:484px;
+	width:626px;
+}
+img.frame-19 {
+	height:483px;
+	width:624px;
+}
+img.frame-20 {
+	height:484px;
+	width:624px;
+}
+img.frame-21 {
+	height:487px;
+	width:624px;
+}
